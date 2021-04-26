@@ -63,20 +63,7 @@
  "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
-        {
-         "columns":16,
-         "firstgid":1,
-         "image":"..\/..\/Workadventure\/tilesets\/general.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"general",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ffffff"
-        }, 
+        
         {
          "columns":8,
          "firstgid":257,
